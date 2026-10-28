@@ -17,7 +17,7 @@ repository.
 | --- | --- |
 | Integrated Crooked Keep | [Canonical repository](https://github.com/VYFORM/Crooked-Keep), connected to the Base44 app named **Crooked Keep**. |
 | Original Fable prototype | [`baseline/fable`](https://github.com/VYFORM/Crooked-Keep/tree/baseline/fable); original Base44 checkpoint `6ae1d434d921638d41c47556`. |
-| Original Gemini prototype | Correct source recovered from the uploaded `crooked-keep-oct-28-2026-10-18-30-am.zip`; archive details belong in the canonical repository. |
+| Original Gemini prototype | [`baseline/gemini`](https://github.com/VYFORM/Crooked-Keep/tree/baseline/gemini), recovered from the correct uploaded ZIP. Gameplay source is unchanged; `ARCHIVE.md` documents the compressed title image and exact original PNG. |
 | Original Terra prototype | Base44 app **Crooked Keep — Terra Prototype**, preserved checkpoint `6ae1d36e82e595052cc06d4c`. |
 
 The integrated game uses Fable's modular simulation as its foundation. Improvements
